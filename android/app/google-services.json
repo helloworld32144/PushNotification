@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284290443519",
+    "project_id": "hello-d8a45",
+    "storage_bucket": "hello-d8a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284290443519:android:b8c923d4f880d79e1b44ca",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChPUD7rY1JQYSJdnANoo8fImVEjVbJyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
